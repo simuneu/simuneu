@@ -27,12 +27,16 @@
 ---
 
 ## 🛠 Tech Stack
+*프로젝트 개발 시 실제로 사용한 기술들입니다.*
 
 ### **Backend**
 <div>
   <img src="https://img.shields.io/badge/Java%2017-007396.svg?logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000.svg?logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-010101.svg?logo=websocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STOMP-0066CC.svg"/>
   <img src="https://img.shields.io/badge/JPA/Hibernate-59666C.svg"/>
   <img src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"/>
