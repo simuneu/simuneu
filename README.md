@@ -19,11 +19,11 @@
 ## 🚀 My Projects
 
 ### 🔥 **Bid&Buy — 실시간 경매 기반 중고거래 서비스 (팀 프로젝트)**
-https://github.com/bid-N-buy/bid-N-buy-backend
+https://github.com/bid-N-buy/bid-N-buy-backend <br/>
 👉 https://d2f2dhfyp3k73e.cloudfront.net  
 
 ### 🔥 **Budgie — 개인 가계부 & 소비 분석 웹앱 (개인 프로젝트)**
-https://github.com/simuneu/budgie_backend
+https://github.com/simuneu/budgie_backend <br/>
 👉 https://www.budgie.fit  
 
 ---
