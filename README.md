@@ -53,14 +53,6 @@ https://github.com/simuneu/budgie_backend <br/>
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simuneu&theme=dracula&hide_border=true" />
-</div>
-
----
-
 ## 📫 Contact
 
 - 📧 Email: **worksimu@gmail.com**  
