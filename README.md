@@ -6,14 +6,6 @@
   <strong>안정적인 설계를 통해 신뢰성있는 서비스</strong>를 만드는 개발자가 되는 것이 목표입니다.
 </p>
 
-<!-- <div align="center">
-
-  <!-- GitHub Stats -->
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=simuneu&show_icons=true&theme=dracula" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simuneu&layout=compact&theme=dracula" />
-
-</div> -->
-
 ---
 
 ## 🚀 My Projects
