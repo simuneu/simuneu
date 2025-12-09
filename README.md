@@ -33,6 +33,7 @@ https://github.com/simuneu/budgie_backend <br/>
   <img src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/FCM-FFCA28.svg?logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flyway-CC0200.svg?logo=flyway&logoColor=white"/>
 </div>
 
 ### **Frontend**
