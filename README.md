@@ -12,7 +12,7 @@
 https://github.com/bid-N-buy/bid-N-buy-backend <br/>
 👉 https://d2f2dhfyp3k73e.cloudfront.net  
 
-### 🔥 **Budgie — 개인 가계부 & 소비 분석 웹앱 (개인 프로젝트)**
+### 🔥 **Budgie — 개인 가계부 & 소비 분석 서비스 (개인 프로젝트)**
 https://github.com/simuneu/budgie_backend <br/>
 👉 https://www.budgie.fit  
 
