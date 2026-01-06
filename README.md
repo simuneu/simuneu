@@ -16,6 +16,10 @@ https://github.com/bid-N-buy/bid-N-buy-backend <br/>
 https://github.com/simuneu/budgie_backend <br/>
 👉 https://www.budgie.fit  
 
+### 🔥 **Chrono — 개발자 사이드 프로젝트 트래커 (페어 프로젝트)**
+https://github.com/sidetrack-duo/chrono-backend <br/>
+👉 https://app.chrono.name
+
 ---
 
 ## 🛠 Tech Stack
